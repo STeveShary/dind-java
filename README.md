@@ -1,1 +1,1 @@
-# dind-jdk8
+# A Versioned Docker-in-Docker Images with Java
